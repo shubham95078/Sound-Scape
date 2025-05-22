@@ -1,0 +1,1 @@
+register_success|s:43:"Registration successful. You can now login.";login_error|s:31:"Incorrect username or password.";register_error|s:33:"Username or email already exists.";user_id|s:1:"2";username|s:9:"Shubham25";role|s:4:"user";
